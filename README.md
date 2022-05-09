@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjaysikdar
 - 👀 I’m interested in Coding!
 - 🌱 I’m currently learning Artificial Intelligence.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python & Node Libraries
 - 📫 How to reach me at sanjay@buzzbites.in
 
 <!---
