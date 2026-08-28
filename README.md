@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding!
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Python & Node Libraries
-- 📫 How to reach me at sanjay@buzzbites.in
+- 📫 How to reach me at sanjay.sikdar@noblehands.in
 
 <!---
 sanjaysikdar/sanjaysikdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
